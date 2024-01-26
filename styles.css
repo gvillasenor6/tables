@@ -1,0 +1,18 @@
+table, th, td{
+    border : 1px solid black;
+}
+
+body{
+    background-image: url("https://images.pexels.com/photos/10323192/pexels-photo-10323192.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load");   /* The image used */
+   
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+  }
+
+  table{ background-color: antiquewhite;
+background-position: center; 
+}  
+
+
+  
